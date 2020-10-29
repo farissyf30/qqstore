@@ -1,0 +1,19 @@
+{
+  "name": "qqstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "css-minify": "postcss css/styles.css -o css/styles.min.css",
+    "css-build": "node-sass --omit-source-map-url scss/styles.scss css/styles.css",
+    "css-watch": "npm run css-build -- --watch",
+    "start": "npm run css-watch"
+  },
+  "author": "faris",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4",
+    "materialize-css": "^1.0.0-rc.2",
+    "node-sass": "^4.12.0"
+  }
+}

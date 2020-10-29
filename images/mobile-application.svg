@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.032" height="34.956" viewBox="0 0 24.032 34.956">
+  <g id="mobile-application" transform="translate(-80)">
+    <g id="Group_33" data-name="Group 33" transform="translate(80)">
+      <g id="Group_32" data-name="Group 32">
+        <path id="Path_14" data-name="Path 14" d="M101.848,0H82.185A2.188,2.188,0,0,0,80,2.185V32.772a2.187,2.187,0,0,0,2.185,2.185h19.663a2.186,2.186,0,0,0,2.185-2.185V2.185A2.187,2.187,0,0,0,101.848,0Zm0,28.4H82.185V4.37h19.663Z" transform="translate(-80)" fill="#ff971d"/>
+      </g>
+    </g>
+    <g id="Group_35" data-name="Group 35" transform="translate(84.37 8.739)">
+      <g id="Group_34" data-name="Group 34">
+        <path id="Path_15" data-name="Path 15" d="M149.462,128h-4.37A1.093,1.093,0,0,0,144,129.092v4.37a1.093,1.093,0,0,0,1.092,1.092h4.37a1.093,1.093,0,0,0,1.092-1.092v-4.37A1.093,1.093,0,0,0,149.462,128Z" transform="translate(-144 -128)" fill="#ff971d"/>
+      </g>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(84.37 17.478)">
+      <g id="Group_36" data-name="Group 36">
+        <path id="Path_16" data-name="Path 16" d="M149.462,256h-4.37A1.093,1.093,0,0,0,144,257.092v4.37a1.093,1.093,0,0,0,1.092,1.092h4.37a1.093,1.093,0,0,0,1.092-1.092v-4.37A1.093,1.093,0,0,0,149.462,256Z" transform="translate(-144 -256)" fill="#ff971d"/>
+      </g>
+    </g>
+    <g id="Group_39" data-name="Group 39" transform="translate(93.109 8.739)">
+      <g id="Group_38" data-name="Group 38">
+        <path id="Path_17" data-name="Path 17" d="M277.462,128h-4.37A1.093,1.093,0,0,0,272,129.092v4.37a1.093,1.093,0,0,0,1.092,1.092h4.37a1.093,1.093,0,0,0,1.092-1.092v-4.37A1.093,1.093,0,0,0,277.462,128Z" transform="translate(-272 -128)" fill="#ff971d"/>
+      </g>
+    </g>
+  </g>
+</svg>

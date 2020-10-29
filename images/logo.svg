@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="54" viewBox="0 0 151 54">
+  <g id="LOGO" transform="translate(-77 -51)">
+    <g id="Group_2" data-name="Group 2" transform="translate(1274.497 -273.503)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="54" height="54" rx="10" transform="translate(-1197.497 324.503)" fill="#fff"/>
+      <path id="Rectangle_7" data-name="Rectangle 7" d="M0,0H17A10,10,0,0,1,27,10V44A10,10,0,0,1,17,54H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-1170.497 324.503)" fill="#ff971d"/>
+      <path id="Rectangle_6" data-name="Rectangle 6" d="M10,0H27a0,0,0,0,1,0,0V54a0,0,0,0,1,0,0H10A10,10,0,0,1,0,44V10A10,10,0,0,1,10,0Z" transform="translate(-1197.497 324.503)" fill="#f9f6f7"/>
+      <text id="Q" transform="translate(-1194.497 359.503)" fill="#ff971d" font-size="26" font-family="Quicksand-Bold, Quicksand" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">Q</tspan></text>
+      <text id="Q-2" data-name="Q" transform="translate(-1168.497 359.503)" fill="#f9f6f7" font-size="26" font-family="Quicksand-Bold, Quicksand" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">Q</tspan></text>
+    </g>
+    <text id="Store" transform="translate(131 89)" fill="#232026" font-size="37" font-family="Quicksand-Bold, Quicksand" font-weight="700"><tspan x="0" y="0">Store</tspan></text>
+  </g>
+</svg>
